@@ -8,3 +8,7 @@ In this project, system automation is based on the PI (Proportional Integral) co
 ![3)Desenho_esquemático(autor)_arduino_PI](https://user-images.githubusercontent.com/43359860/67165702-d22ab380-f35e-11e9-96d8-fad5b8a123f9.jpg)
 
 The control action of this system is represented in the block diagram below.
+
+![diagrama de blocos_controlador-PI(2)](https://user-images.githubusercontent.com/43359860/67256359-0389a900-f45d-11e9-9d95-df39892849c5.JPG)
+
+(Text reference: Hydraulic Automation to Drive Motor Pumps Using Microcontrollers)
