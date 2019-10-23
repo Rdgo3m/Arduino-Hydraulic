@@ -14,4 +14,6 @@ PI controller data is monitored by Matlab via serial communication. To enable th
 
 ![plot_all_Real_32_media(f)](https://user-images.githubusercontent.com/43359860/67348706-262ec700-f51c-11e9-8e2e-7375aabe55cf.jpg)
 
+More details on video linked in description.
+
 (Reference: Hydraulic Automation to Drive Motor Pumps Using Microcontrollers)
