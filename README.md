@@ -12,4 +12,6 @@ The control action of this system is represented in the block diagram below.
 
 PI controller data is monitored by Matlab via serial communication. To enable the USB / TTL interface, the FT232R converter is used, so the data obtained is viewed on the screen and the graphs of the variables (level, set point, error, A/D sensor) are plotted in real time with program routine (PI_ArduinoSerial.m).
 
-(Text reference: Hydraulic Automation to Drive Motor Pumps Using Microcontrollers)
+![plot_all_Real_32_media(f)](https://user-images.githubusercontent.com/43359860/67348706-262ec700-f51c-11e9-8e2e-7375aabe55cf.jpg)
+
+(Reference: Hydraulic Automation to Drive Motor Pumps Using Microcontrollers)
