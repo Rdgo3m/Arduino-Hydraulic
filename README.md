@@ -10,4 +10,6 @@ In this project (seted up in sketch above), system automation is based on the PI
 The control action of this system is represented in the block diagram below.
 ![diagrama de blocos_controlador-PI(2)](https://user-images.githubusercontent.com/43359860/67256359-0389a900-f45d-11e9-9d95-df39892849c5.JPG)
 
+PI controller data is monitored by Matlab via serial communication. To enable the USB / TTL interface, the FT232R converter is used, so the data obtained is viewed on the screen and the graphs of the variables (level, set point, error, A / D sensor) are plotted in real time with program routine (PI_ArduinoSerial.m).
+
 (Text reference: Hydraulic Automation to Drive Motor Pumps Using Microcontrollers)
